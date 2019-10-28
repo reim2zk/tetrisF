@@ -1,4 +1,4 @@
-name := "tetlisF"
+name := "tetrisF"
 
 version := "0.1"
 
